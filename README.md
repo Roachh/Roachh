@@ -9,8 +9,8 @@
 <br />
 
 <div>
-  <img height='250px' src='https://github-readme-stats.vercel.app/api?username=Roachh&theme=tokyonight' />
-  <img height='250px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Roachh&theme=tokyonight' />
+  <img align="center" height='250px' src='https://github-readme-stats.vercel.app/api?username=Roachh&theme=tokyonight' />
+  <img align="center" height='250px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Roachh&theme=tokyonight' />
 </div>
 
 <br />
