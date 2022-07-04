@@ -2,6 +2,8 @@
 
 ### 👨 I'm called Thiago Estácio Barata
 
+https://Roachh.github.io
+
 🎓 Computer Engineering graduate 
 
 📚 Currently focused on Front-End development with React, using Firebase as Back-End. Mostly self-guided learner.
