@@ -6,7 +6,7 @@ https://Roachh.github.io
 
 🎓 Computer Engineering graduate 
 
-📚 Currently focused on Front-End development with React.js / Next.js, using Express.js / MongoDB as Back-End and React Native for mobile development. Mostly self-guided learner.
+📚 Currently focused on Front-End development with React.js, learning Express.js / MongoDB / Next.js for Back-End and React Native for mobile development. Mostly self-guided learner.
 
 <br />
 
