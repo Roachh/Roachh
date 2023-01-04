@@ -4,9 +4,9 @@
 
 https://Roachh.github.io
 
-🎓 Computer Engineering graduate 
+👨‍💻Web Developer at [Qualyteam](https://qualyteam.com/pb/)
 
-📚 Currently focused on Front-End development with React.js, learning Express.js / MongoDB / Next.js for Back-End and React Native for mobile development. Mostly self-guided learner.
+📚 Currently focused on Full-stack development, learning the T3 stack and React Native for mobile development. Mostly self-guided learner.
 
 <br />
 
